@@ -1,5 +1,4 @@
 'use strict'
-let str = "Сосна";
 
 function lastVariant () {
     cutExtraSymbols(input.value);
