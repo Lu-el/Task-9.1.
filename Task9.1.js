@@ -1,5 +1,8 @@
 'use strict'
+
+
 function lastVariant () {
+    let input = document.querySelector('.btn');
     cutExtraSymbols(input.value);
     let div = document.createElement('div');
     div.className = "task91";
