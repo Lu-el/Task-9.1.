@@ -1,5 +1,4 @@
 'use strict'
-
 function lastVariant () {
     cutExtraSymbols(input.value);
     let div = document.createElement('div');
